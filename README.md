@@ -1,8 +1,6 @@
 # startup
 Repository for startup application
 
-This repository will contain the different files needed for my final project in the CS 260 class
-
-This line is to see if I am able to pull from github to vs code
-
-Test this file
+I had used github in the past for different classes but this is the first time that I feel like I actually
+understood what was happening and how to use it properly. This is going to make things much easier in the future
+when I am working on these projects and projects with people in the future. 
