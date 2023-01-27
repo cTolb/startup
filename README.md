@@ -10,3 +10,9 @@ Creating group chats with your study group can be complicated when people join t
 My application will allow users to create different group chats with eachother and change those group chats easily. With
 a few simple taps or clicks people can be added to group chats or removed. The application will also allow for photo and
 file sharing within the different chats. 
+
+Key Features:
+Instant chat with groups or individuals
+Photo sharing
+File sharing
+Create and edit group chats
