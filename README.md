@@ -18,3 +18,4 @@ File sharing
 Create and edit group chats
 
 **Rough Sketch**
+![startup_sketch](https://user-images.githubusercontent.com/93725828/215159874-2f4cd553-ab4b-4b9e-aaef-31da885a1921.jpg)
