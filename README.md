@@ -19,3 +19,10 @@ Create and edit group chats
 
 **Rough Sketch**
 ![startup_sketch](https://user-images.githubusercontent.com/93725828/215159874-2f4cd553-ab4b-4b9e-aaef-31da885a1921.jpg)
+
+**Learned from Simon HTML:**
+Something that I learned from working on this project is how important it is to make sure you know the basic outline of what
+the application is going to look like before going into actually coding it. Knowing the layout and basics of the content will
+make things much easier. I also learned how to connect the different html files together so they will work together for one
+application. I thought it would have been one large file but now I see that it is beneficial to have multiple files working
+together for the final project.
