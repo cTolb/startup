@@ -26,3 +26,8 @@ the application is going to look like before going into actually coding it. Know
 make things much easier. I also learned how to connect the different html files together so they will work together for one
 application. I thought it would have been one large file but now I see that it is beneficial to have multiple files working
 together for the final project.
+
+**Learned from Simon CSS:**
+Something that I learned from working on this project is how simple and useful the framework can be. It make things so much
+simpler when it came to adding buttons and creating user interaction. Something else that I learned was how useful it is to
+double check all spelling, I had a few major bugs in the program simply because I was missing a letter in a word. This is something that is pretty easy to fix, I just need to be more mindful of what I am typing when I am typing it. 
