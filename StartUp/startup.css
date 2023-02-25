@@ -7,7 +7,7 @@ html {
 }
 
 .demo-box {
-    margin: 1rem 0;
+    margin: 1rem;
     border: thick solid grey;
     border-radius: 0.75rem;
     padding: .75rem;
