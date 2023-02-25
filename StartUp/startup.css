@@ -13,11 +13,6 @@ html {
     padding: .75rem;
 }
 
-.card>img {
-    height: 200px;
-    background: gray;
-}
-
 body {
     display: flex;
     flex-direction: column;
