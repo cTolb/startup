@@ -31,3 +31,8 @@ together for the final project.
 Something that I learned from working on this project is how simple and useful the framework can be. It make things so much
 simpler when it came to adding buttons and creating user interaction. Something else that I learned was how useful it is to
 double check all spelling, I had a few major bugs in the program simply because I was missing a letter in a word. This is something that is pretty easy to fix, I just need to be more mindful of what I am typing when I am typing it. 
+
+**Learned fom Simon JS:**
+Something that I learned from this assignment is how important it is to double check spacing. I had a few issues that I had that
+were due to whitespace and spacing issues. I also learned how to get the different files to interact with eachother by listing the 
+JS files in the html files. 
